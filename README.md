@@ -12,11 +12,11 @@
 
 ## 참고
 
-1. 빵형의 개발 도상국 유튜브
+1. 빵형의 개발도상국 유튜브
    
 https://www.youtube.com/watch?v=aUXwVp4eUH4
 
-2. 빵형의 개발 도상국 노션
+2. 빵형의 개발도상국 노션
    
 https://bradjobs.notion.site/TTS-85a62e9706fe49a3876208f749ce8c35
 
