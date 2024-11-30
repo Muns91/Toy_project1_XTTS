@@ -1,4 +1,4 @@
-# 내 목소시로 동화책 읽어주는 AI 만들기
+# 내 목소리로 동화책 읽어주는 AI 만들기
 
 ![인공지능 프로젝트](https://github.com/user-attachments/assets/35ca9f49-8e1f-497f-a273-6f8b026a1764)
 
@@ -6,6 +6,9 @@
 ## 프로젝트 소개
 해당 프로젝트는 Coqui에서 제공하는 XTTS 모델을 활용하여 특정 목소리를 학습 시킨 후, 학습된 목소리로 Text를 읽어주는 AI를 위한 프로젝트입니다. 
 
+## 사용 Model
+1. Whisper
+2. XTTS
 
 ## 참고
 
