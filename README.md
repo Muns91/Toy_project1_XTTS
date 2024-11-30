@@ -7,8 +7,8 @@
 해당 프로젝트는 Coqui에서 제공하는 XTTS 모델을 활용하여 특정 목소리를 학습 시킨 후, 학습된 목소리로 Text를 읽어주는 AI를 위한 프로젝트입니다. 
 
 ## 사용 Model
-1. Whisper
-2. XTTS
+1. Whisper (STT)
+2. XTTS (TTS)
 
 ## 참고
 
