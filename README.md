@@ -6,6 +6,7 @@
 ## 프로젝트 소개
 해당 프로젝트는 Coqui에서 제공하는 XTTS 모델을 활용하여 특정 목소리를 학습 시킨 후, 학습된 목소리로 Text를 읽어주는 AI를 위한 프로젝트입니다. 
 
+
 ## 참고
 
 https://www.youtube.com/watch?v=aUXwVp4eUH4
